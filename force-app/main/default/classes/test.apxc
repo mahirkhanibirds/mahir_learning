@@ -1,5 +1,5 @@
 pubic class testMahir{
     public static void testMethod(){
-        System.debug(' Hi Mahir 123 '); 
+        System.debug(' Hi Mahir 1234 ');
     }
 }
